@@ -39,18 +39,19 @@ TeamSpeak ist eine Kommunikationssoftware, welche ermöglicht über das Internet
 ### 🐧 Windows Server Installation
 Zuerst musst du alle nötigen Ports freigeben
 1. Öffne das Programm `Windows-Firewall mit erweiterter Sicherheit` über die Windows Suche und erstelle folgende Regeln um die Ports zu erlauben:
-- 9987 - (UDP eingehend)
-- 2010 - (UDP ausgehend)
-- 30033, 10011, 41144 - (TCP eingehend)
-- 2008 - (TCP ausgehend)
+    - 9987 - (UDP eingehend)
+    - 2010 - (UDP ausgehend)
+    - 30033, 10011, 41144 - (TCP eingehend)
+    - 2008 - (TCP ausgehend)
+     
+   >[?] Wie erstellt man eine Regel?
+   > Klicke in der linken Auswahl auf Eingehende bzw. Ausgehende Regeln und danach in der rechten Auswahl auf `Regel erstellen`. Als Regeltyp Port auswählen, TCP bzw. UDP auswählen und die bestimmten Ports angeben.
+   >Danach auf Verbindung zulassen. Lasse im nächsten Schritt alle Profile aktiv und gib im letzten Schritt einen Namen für deine Regel an.
 
->[?] Wie erstellt man eine Regel?
-> Klicke in der linken Auswahl auf Eingehende bzw. Ausgehende Regeln und danach in der rechten Auswahl auf `Regel erstellen`. Als Regeltyp Port auswählen, TCP bzw. UDP auswählen und die bestimmten Ports angeben.
->Danach auf Verbindung zulassen. Lasse im nächsten Schritt alle Profile aktiv und gib im letzten Schritt einen Namen für deine Regel an.
-
-Nun laden wir den Server herunter
 2. Lade dir das 64bit Server Zip Archiv [auf der TeamSpeak Downloads Seite](https://www.teamspeak.com/en/downloads/#server) herunter und entpacke sie auf dem Desktop deines Servers.
+
 3. Entpache das Archiv und starte den Server über die ts3server.exe. 
+
 4. Du wirst aufgefordert die Lizenz des Servers zu akzeptieren und erhälst danach deine Administratorzugänge. **Speichere dir diese ab.**
 
 
