@@ -16,15 +16,15 @@ Wie du deinen Gameserver mit einer Domain verbindest, erfährst du in dem Wiki E
 Für Gameserver, die bei uns direkt gemietet sind, bietet unsere DNS Verwaltung Templates an. Mehr dazu im Wikieintrag [Informationen über Domains](domains#-dns-templates)
 ### 🕹 Unsere Gameserver
 Aktuell bieten wir folgende Gameserver an:
-- [alt:V Multiplayer](a-record-erstellen)
-- [ARK: Survival Evolved](a-record-erstellen)
-- [Counter Strike: Global Offensive](a-record-erstellen)
-- [Counter Strike: Source](a-record-erstellen)
-- [Counter Strike: Global Offensive](a-record-erstellen)
-- [Garry's Mod](a-record-erstellen)
+- [alt:V Multiplayer]()
+- [ARK: Survival Evolved]()
+- [Counter Strike: Global Offensive]()
+- [Counter Strike: Source]()
+- [Counter Strike: Global Offensive]()
+- [Garry's Mod]()
 - [Minecraft Java/Bedrock/Pocketmine](minecraft-gameserver)
-- [Rust](a-record-erstellen)
-- [Terraria](a-record-erstellen)
+- [Rust](rust-gameserver)
+- [Terraria]()
 
 ### 💻 Gameserver Panel
 
