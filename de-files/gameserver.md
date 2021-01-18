@@ -22,7 +22,7 @@ Aktuell bieten wir folgende Gameserver an:
 - [Counter Strike: Source](a-record-erstellen)
 - [Counter Strike: Global Offensive](a-record-erstellen)
 - [Garry's Mod](a-record-erstellen)
-- [Minecraft Java/Bedrock/Pocketmine](a-record-erstellen)
+- [Minecraft Java/Bedrock/Pocketmine](minecraft-gameserver)
 - [Rust](a-record-erstellen)
 - [Terraria](a-record-erstellen)
 

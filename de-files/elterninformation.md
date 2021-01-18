@@ -6,21 +6,18 @@ sidebar_label: Elterninformation
 
 # Liebe Eltern,
 
-mein Name ist Lukas Hübner und ich bin Mitarbeiter bei DeinServerHost.
+Sie haben ein minderjähriges Kind, welches ein Produkt bei DeinServerHost gekauft hat oder kaufen möchte und haben nun Sorge um Verträge, weiteren Kosten und sogar Mahnungen durch unser Unternehmen?
+All unsere Dienste werden auf „Prepaid“-Basis abgerechnet, sodass ich Ihnen diese Sorge gerne abnehmen kann. Durch dieses Prepaid System, schließt Ihr Kind nur Verträge mit DeinServerHost ab, welche keine Vertragslaufzeit besitzen und sich auch nicht automatisch verlängern. Um etwas auf unserer Webseite zu kaufen, ist Guthaben nötig. Dieses können Sie gemeinsam mit Ihrem Kind aufladen. Dazu stehen Ihnen folgende Zahlungsmethoden zur Verfügung: PaySafeCard, PayPal, Klarna, Lastschrift, Skrill, Mastercard und CoinGate.
+Rechnungen werden von unserem System automatisch generiert und, sofern sich ausreichend Guthaben auf dem Konto befindet, auch ohne notwendige Eingriffe Ihrerseits bezahlt. Wenn der Dienst aber nicht mehr benötigt wird, können diese einfach ignoriert werden und wir löschen das Produkt zum entsprechenden Fälligkeitsdatum automatisch. Ihnen oder Ihrem Kind entstehen hierbei keine weiteren Kosten. Wir versichern Ihnen, dass keinerlei unbegründete Kosten beim Kauf von einem unserer Produkte entstehen. Auch verzichten wir auf Mahnungen oder sonstigen Briefen, welche Sie bzw. Ihr Kind, zur Zahlung eines Produktes auffordern. 
+Sollte das Guthaben Ihres Kindes ungewollt einer Rechnung zugewiesen worden sein, lässt sich das mit einem kurzen Ticket an mich oder einen anderen Mitarbeiter unseres Unternehmens jederzeit klären oder ganz einfach rückgängig machen.
+Bei weiteren Bedenken stehe ich Ihnen jederzeit via E-Mail, in unserem Ticket-Support, sowie in unserem Livechat zur Verfügung.
+Sollten trotz all unserer Bemühungen Probleme auftreten, finden wir eine faire Lösung für Sie und Ihr Kind. Kontaktieren Sie mich dazu einfach über eine der oben genannten Kontaktmöglichkeiten.
 
-Ihr Kind möchte sich einen Dienst bei uns mieten und mit seinen Freunden zum Beispiel auf seinem eigenen Gameserver spielen oder die ersten Erfahrungen in Sachen Programmierung oder Webentwicklung sammeln?
-
-Jetzt haben Sie vielleicht Bedenken, dass dies zu eventuellen Mahnungen oder ungewollten Abos führen könnte.
- 
-All unsere Dienste werden auf PrePaid Basis abgerechnet, so dass ich Ihnen diese Sorge gerne abnehmen kann. 
-Dieses System erlaubt es Ihrem minderjährigen Kind sich einen Dienst **ohne Vertragslaufzeit und automatische Verlängerungen** bei uns zu mieten. 
-Rechnungen werden zwar automatisch generiert und sofern sich ausreichend Guthaben auf dem Konto befindet auch bezahlt. Wenn der Dienst aber nicht mehr gebraucht wird, können diese aber einfach ignoriert werden und wir löschen das Produkt zum entsprechenden Fälligkeitsdatum automatisch.
-Sollte das Guthaben Ihres Kindes ungewollt einer Rechnung zugewiesen worden sein, lässt sich das mit einem kurzen Ticket an den Support selbstverständlich zurück buchen.
- 
-Sollten Sie irgendwelche Fragen haben, bevor sich Ihr Kind bei uns etwas mietet, stehe ich jederzeit direkt [per Mail](mailto:luke@dsh.icu) oder über den Livechat / Ticketsupport zur Verfügung.
-
-Frundliche Grüße,
+Mit freundlichen Grüßen,
 
 Lukas Hübner 
+
+DeinServerHost
+
 
 ![img](../static/img/deinserverhost.png)
