@@ -35,6 +35,7 @@ TeamSpeak ist eine Kommunikationssoftware, welche ermöglicht über das Internet
    $ ./ts3server_startscript.sh start
    ```
 
+
 ### 🐧 Windows Server Installation
 Zuerst musst du alle nötigen Ports freigeben
 1. Öffne das Programm `Windows-Firewall mit erweiterter Sicherheit` über die Windows Suche und erstelle folgende Regeln um die Ports zu erlauben:
@@ -43,10 +44,8 @@ Zuerst musst du alle nötigen Ports freigeben
 - 30033, 10011, 41144 - (TCP eingehend)
 - 2008 - (TCP ausgehend)
 
-> [?] Wie erstellt man eine Regel?
->
->Klicke in der linken Auswahl auf Eingehende bzw. Ausgehende Regeln und danach in der rechten Auswahl auf `Regel erstellen`. Als Regeltyp Port auswählen, TCP bzw. UDP auswählen und die bestimmten Ports angeben.
->
+>[?] Wie erstellt man eine Regel?
+> Klicke in der linken Auswahl auf Eingehende bzw. Ausgehende Regeln und danach in der rechten Auswahl auf `Regel erstellen`. Als Regeltyp Port auswählen, TCP bzw. UDP auswählen und die bestimmten Ports angeben.
 >Danach auf Verbindung zulassen. Lasse im nächsten Schritt alle Profile aktiv und gib im letzten Schritt einen Namen für deine Regel an.
 
 Nun laden wir den Server herunter
@@ -54,7 +53,6 @@ Nun laden wir den Server herunter
 3. Entpache das Archiv und starte den Server über die ts3server.exe. 
 4. Du wirst aufgefordert die Lizenz des Servers zu akzeptieren und erhälst danach deine Administratorzugänge. **Speichere dir diese ab.**
 
-<br>
 
 Der Server startet nun. 🎉
 
@@ -62,4 +60,4 @@ Bitte notiere dir den Server Query Admin Login und den Server Admin privilege ke
 
 ### 🌎 Server mit Domain verbinden
 
-Wie du deinen Server mit deiner Domain verbindest, erfährst du im Eintrag [SRV Record erstellen](srv-record-erstellen#-anlegen-von-srv-records-für-fivem).
+Wie du deinen Server mit deiner Domain verbindest, erfährst du im Eintrag [SRV Record erstellen](srv-record-erstellen#-anlegen-von-srv-records-für-teamspeak).

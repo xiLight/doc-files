@@ -4,7 +4,7 @@ title:  Willkommen!
 sidebar_label: Willkommen
 slug: /
 ---
-
+im DeinSeverHost Wiki.
 
 
 ![img](https://deinserverhost.de/assets/img/brand/white.svg)
