@@ -16,7 +16,7 @@ Dein Projekt braucht einen verlässlichen und zukunftssicheren Partner! Seit 201
 Mit dem Serverstandort Frankfurt am Main steht dein Server nah am Internetknotenpunkt DE-CIX, um dir dein Bestes und schnellstes Erlebnis zu ermöglichen. 
 ### ✔ Registrieren
 Anscheinend bist du neu bei uns... Dann heißen wir dich mal Herzlich Willkommen! 
-Registriere dich [hier](https://deinserverhost.de/store/register.php) kostenfrei in unserem Kundencenter, damit dir all unsere Service zur Verfügung stehen.
+Registriere dich [hier](https://deinserverhost.de/store/register.php) kostenfrei in unserem Kundencenter, damit dir all unsere Services zur Verfügung stehen.
 
 ![img](https://img.salty.cloud/msedge_Cs7at0GALb.png)
 
