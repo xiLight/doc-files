@@ -1,4 +1,2 @@
 # Hi
-Format ist Markdown
-
-Bitte die Titel im "SEO friendly" Stil fortsetzen.
+hier bitte nicht bearbeiten. Nur in de-files
